@@ -135,7 +135,7 @@ This project is open-source and available under the MIT License.
 ---
 
 👤 Author
-Hari Haran
+Hariharan S
 📧 Email: hariharan03.eng@gmail.com
 🔗 GitHub: @Eng-Hari
 
